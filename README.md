@@ -18,4 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanidhya14321&show_icons=true&locale=en&layout=compact" alt="sanidhya14321" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanidhya14321&show_icons=true&locale=en" alt="sanidhya14321" /></p>
