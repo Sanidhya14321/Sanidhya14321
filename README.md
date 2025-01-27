@@ -13,7 +13,7 @@ Tools: Vite, Framer Motion, Firebase, etc.,
 Now, I am currently working on :
 Mastering Next.js so that I could further grow my full-stack experience 
 Exploring Advanced React 
-Building projects that are neat and easy to use with silky animations. 
+Building projects that are neat, futuristic and easy to use with silky animations. 
 
 Why I am looking forward to:
 Full-Stack Development- Building an application end-to-end and making sure all layers are seamless
