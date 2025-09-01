@@ -2,30 +2,53 @@
 <br>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5FF727&background=FE67FF00&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+there!+I'm+Sanidhya+Vats+%F0%9F%92%BB;Full+Stack+Developer" alt="Typing SVG" /></a><br>
 I am a full-stack developer with strong expertise in the MERN stack and experience building scalable applications using Firebase and Next.js. In addition to web development, I am expanding my knowledge in Artificial Intelligence and Machine Learning, currently exploring areas like Convolutional Neural Networks (CNNs). I aim to integrate AI/ML with full-stack development to create impactful, intelligent applications.
+<br/>
+<br/>
+<div align="left"> 
+Web Development :<br/>
+Front-end: React, JavaScript, HTML, CSS, Next.js<br/>
+Back-end: Node.js, Express.js<br/>
+Database: MongoDB, Firebase<br/>
+Version Control: Git & GitHub<br/>
+Tools: Vite, Framer Motion, Firebase, etc..<br/>
+</div>
+<br/>
+<div align="left"> 
+<div align="left"> 
+AI/ML:<br/>
+-> Programming & Scripting:  <br/>
+  ✔️ Python, SQL  <br/>
+-> Core Libraries:  <br/>
+  ✔️ NumPy, Pandas, Scikit-learn, SciPy, Statsmodels  <br/>
+-> Deep Learning:  <br/>
+  ✔️  <br/>
+  🟠 TensorFlow (Learning), PyTorch (Learning), Keras (Learning)  <br/>
+-> Machine Learning:  <br/>
+  ✔️ Regression, Classification, Clustering, Decision Trees, Random Forests, SVM, Ensemble Models <br/> 
+-> AI/ML Concepts:  <br/>
+  ✔️ Supervised & Unsupervised Learning  <br/>
+  🟠 Reinforcement Learning (Learning), NLP (Learning), Computer Vision (Learning), Generative AI (Learning), LLMs (Learning)  <br/>
+-> Visualization & EDA:  <br/>
+  ✔️ Matplotlib, Seaborn, Plotly  <br/>
+-> Data Handling:  <br/>
+  ✔️ SQL, MongoDB, Firebase  <br/>
+-> Model Deployment:  <br/>
+  ✔️ Flask, FastAPI, Streamlit, Heroku  <br/>
+  🟠 Docker (Learning), AWS (Learning)  <br/>
+-> Version Control:  <br/>
+  ✔️ Git & GitHub  <br/>
+-> Tools & Platforms:  <br/>
+  ✔️ Jupyter Notebook, Google Colab, Kaggle  <br/>
+  🟠 MLflow (Learning), Hugging Face (Learning), LangChain (Learning)  <br/>
+</div>
 
-Web Development :
-Front-end: React, JavaScript, HTML, CSS, Next.js
-Back-end: Node.js, Express.js
-Database: MongoDB, Firebase
-Version Control: Git & GitHub
-Tools: Vite, Framer Motion, Firebase, etc..
-
-AI/ML:
-Programming & Scripting: Python, SQL
-Core Libraries: NumPy, Pandas, Scikit-learn, SciPy, Statsmodels
-Deep Learning: TensorFlow, PyTorch, Keras
-Machine Learning: Regression, Classification, Clustering, Decision Trees, Random Forests, SVM, Ensemble Models
-AI/ML Concepts: Supervised & Unsupervised Learning, Reinforcement Learning, Natural Language Processing (NLP), Computer Vision, Generative AI, LLMs
-Visualization & EDA: Matplotlib, Seaborn, Plotly
-Data Handling: SQL, MongoDB, Firebase
-Model Deployment: Flask, FastAPI, Streamlit, Docker, Heroku, AWS, GCP, Azure
-Version Control: Git & GitHub
-Tools & Platforms: Jupyter Notebook, Google Colab, Kaggle, MLflow, Hugging Face, LangChain
-
+    
+<div align="left"><br/>
 Now, I am currently working on :
-Mastering Deep Learning and GenAI
-Building projects. 
-
+<br/> - Mastering Deep Learning and GenAI. <br/> - Building projects.
+<br/>
+</div>
+<br/>
 Why I am looking forward to:
 Full-Stack Development- Building an application end-to-end and making sure all layers are seamless
 Future Technologies: AI, ML, blockchain, etc. with how they shape the web. 
