@@ -1,19 +1,30 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="auto"></div>
 <br>
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5FF727&background=FE67FF00&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+there!+I'm+Sanidhya+Vats+%F0%9F%92%BB;Mern+Stack+Developer" alt="Typing SVG" /></a><br>
-I am passionate about technology and constantly seek to upgrade my skills and work on innovative projects. Being a web developer, my primary area of expertise lies in the MERN stack. I have experience in using Firebase for dynamic and scalable web applications. I am also getting started with Next.js to develop my full-stack development skills further.
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5FF727&background=FE67FF00&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+there!+I'm+Sanidhya+Vats+%F0%9F%92%BB;Full+Stack+Developer" alt="Typing SVG" /></a><br>
+I am a full-stack developer with strong expertise in the MERN stack and experience building scalable applications using Firebase and Next.js. In addition to web development, I am expanding my knowledge in Artificial Intelligence and Machine Learning, currently exploring areas like Convolutional Neural Networks (CNNs). I aim to integrate AI/ML with full-stack development to create impactful, intelligent applications.
 
-Technologies & Tools :
-Front-end: React, JavaScript, HTML, CSS, Next.js (Learning)
+Web Development :
+Front-end: React, JavaScript, HTML, CSS, Next.js
 Back-end: Node.js, Express.js
 Database: MongoDB, Firebase
 Version Control: Git & GitHub
-Tools: Vite, Framer Motion, Firebase, etc.,
+Tools: Vite, Framer Motion, Firebase, etc..
+
+AI/ML:
+Programming & Scripting: Python, SQL
+Core Libraries: NumPy, Pandas, Scikit-learn, SciPy, Statsmodels
+Deep Learning: TensorFlow, PyTorch, Keras
+Machine Learning: Regression, Classification, Clustering, Decision Trees, Random Forests, SVM, Ensemble Models
+AI/ML Concepts: Supervised & Unsupervised Learning, Reinforcement Learning, Natural Language Processing (NLP), Computer Vision, Generative AI, LLMs
+Visualization & EDA: Matplotlib, Seaborn, Plotly
+Data Handling: SQL, MongoDB, Firebase
+Model Deployment: Flask, FastAPI, Streamlit, Docker, Heroku, AWS, GCP, Azure
+Version Control: Git & GitHub
+Tools & Platforms: Jupyter Notebook, Google Colab, Kaggle, MLflow, Hugging Face, LangChain
 
 Now, I am currently working on :
-Mastering Next.js so that I could further grow my full-stack experience 
-Exploring Advanced React 
-Building projects that are neat, futuristic and easy to use with silky animations. 
+Mastering Deep Learning and GenAI
+Building projects. 
 
 Why I am looking forward to:
 Full-Stack Development- Building an application end-to-end and making sure all layers are seamless
