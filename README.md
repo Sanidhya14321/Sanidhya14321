@@ -22,24 +22,24 @@ AI/ML:<br/>
   ✔️ NumPy, Pandas, Scikit-learn, SciPy, Statsmodels  <br/>
 -> Deep Learning:  <br/>
   ✔️  <br/>
-  🟠 TensorFlow (Learning), PyTorch (Learning), Keras (Learning)  <br/>
+   TensorFlow (Learning), PyTorch (Learning), Keras (Learning)  <br/>
 -> Machine Learning:  <br/>
   ✔️ Regression, Classification, Clustering, Decision Trees, Random Forests, SVM, Ensemble Models <br/> 
 -> AI/ML Concepts:  <br/>
   ✔️ Supervised & Unsupervised Learning  <br/>
-  🟠 Reinforcement Learning (Learning), NLP (Learning), Computer Vision (Learning), Generative AI (Learning), LLMs (Learning)  <br/>
+   Reinforcement Learning (Learning), NLP (Learning), Computer Vision (Learning), Generative AI (Learning), LLMs (Learning)  <br/>
 -> Visualization & EDA:  <br/>
   ✔️ Matplotlib, Seaborn, Plotly  <br/>
 -> Data Handling:  <br/>
   ✔️ SQL, MongoDB, Firebase  <br/>
 -> Model Deployment:  <br/>
   ✔️ Flask, FastAPI, Streamlit, Heroku  <br/>
-  🟠 Docker (Learning), AWS (Learning)  <br/>
+   Docker (Learning), AWS (Learning)  <br/>
 -> Version Control:  <br/>
   ✔️ Git & GitHub  <br/>
 -> Tools & Platforms:  <br/>
   ✔️ Jupyter Notebook, Google Colab, Kaggle  <br/>
-  🟠 MLflow (Learning), Hugging Face (Learning), LangChain (Learning)  <br/>
+   MLflow (Learning), Hugging Face (Learning), LangChain (Learning)  <br/>
 </div>
 
     
