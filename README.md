@@ -18,7 +18,7 @@ My goal is to **bridge web development with AI/ML** to create scalable, intellig
 
 🔹 Building production-ready applications with **Next.js, Firebase, and cloud deployment**  
 🔹 Exploring **Deep Learning (CNNs, LLMs, GenAI)** to integrate into real-world projects  
-🔹 Passionate about **future technologies** like AI, ML, and Blockchain  
+🔹 Passionate about **future technologies** like AI, ML, DL and GenAI
 
 ---
 
