@@ -84,9 +84,6 @@ My goal is to **bridge web development with AI/ML** to create scalable, intellig
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidhya14321&layout=compact&theme=gotham&hide_border=true" height="180em" />
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanidhya14321&theme=gotham&hide_border=true" height="180em" />
-
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=Sanidhya14321&theme=onestar&no-frame=true&row=1&column=6" height="120em"/>
 
