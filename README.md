@@ -17,8 +17,8 @@ I’m a **Full-Stack Developer** with expertise in the **MERN stack** and a grow
 My goal is to **bridge web development with AI/ML** to create scalable, intelligent, and impactful applications.  
 
 🔹 Building production-ready applications with **Next.js, Firebase, and cloud deployment**  
-🔹 Exploring **Deep Learning (CNNs, LLMs, GenAI)** to integrate into real-world projects  
-🔹 Passionate about **future technologies** like AI, ML, DL and GenAI
+🔹 Exploring **Deep Learning Topics** to integrate into real-world projects  
+🔹 Passionate about **future technologies** like AI, ML, DL, and GenAI
 
 ---
 
