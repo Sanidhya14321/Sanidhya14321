@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a **Full-Stack Developer** with expertise in the **MERN stack** and a growing focus on **Artificial Intelligence & Machine Learning**.  
+I’m a **Full-Stack Developer** with expertise in the **MERN stack** and **Artificial Intelligence & Machine Learning**.  
 My goal is to **bridge web development with AI/ML** to create scalable, intelligent, and impactful applications.  
 
 🔹 Building production-ready applications with **Next.js, Firebase, and cloud deployment**  
