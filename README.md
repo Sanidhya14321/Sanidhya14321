@@ -26,20 +26,6 @@ Hi there! I'm Sanidhya, a **Full Stack Developer** with a passion for building i
 
 ---
 
-## 🚀 Featured Projects
-
-**(Add a few of your best projects here with a brief description, links to the demo, and a GitHub repository link)**
-
-### **Project Name 1**
-*A concise, one-sentence description of the project and its key functionality.*
-* **Tech Stack:** `Next.js`, `TensorFlow`, `Firebase`
-* [Live Demo](link-to-live-demo) | [GitHub Repo](link-to-github-repo)
-
-### **Project Name 2**
-*Another great project with a clear explanation of what it does and the problem it solves.*
-* **Tech Stack:** `React`, `Node.js`, `MongoDB`, `Docker`
-* [Live Demo](link-to-live-demo) | [GitHub Repo](link-to-github-repo)
-
 ---
 
 <div align="center">
