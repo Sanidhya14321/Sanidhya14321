@@ -26,6 +26,21 @@ Hi there! I'm Sanidhya, a **Full Stack Developer** with a passion for building i
 
 ---
 
+## 🚀 Featured Projects
+
+### **Debate App**
+A real-time debate platform powered by AI. I used **Next.js (TypeScript)** and **Socket.IO** for real-time interactivity and integrated **FastAPI** to serve a **Hugging Face Transformers** model for automated scoring. The application is containerized with **Docker** and **Kubernetes**, and uses **PostgreSQL**, **MongoDB**, and **Redis** for robust data management, with **JWT** for secure authentication.
+
+---
+
+### **CareerCompass**
+An AI-powered career guidance application. This project uses **React.js** with **Vite** for a fast, responsive UI and leverages the **OpenAI API** and **Botpress** to provide personalized recommendations. The user experience is enhanced with **Framer Motion**, and a **Node.js** backend with **MongoDB** and **Firebase** ensures seamless data flow and storage.
+
+---
+
+### **SPARK**
+A secure student community platform. This application features robust, **JWT**-based authentication with **Bcrypt.js** for secure credential hashing. The front end is built with **React.js** and **Tailwind CSS**, while **Redux + RTK Query** powers efficient data fetching. A scalable data model is maintained with **MongoDB** and **Mongoose**, supporting various community features.
+
 ---
 
 <div align="center">
@@ -63,4 +78,6 @@ Hi there! I'm Sanidhya, a **Full Stack Developer** with a passion for building i
 <div align="center">
   ✨ Thanks for stopping by! ✨
   <br>
+  <br>
+  [![](https://visitcount.itsvg.in/api?id=Sanidhya14321&icon=2&color=6)](https://visitcount.itsvg.in)
 </div>
