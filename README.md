@@ -78,6 +78,4 @@ A secure student community platform. This application features robust, **JWT**-b
 <div align="center">
   ✨ Thanks for stopping by! ✨
   <br>
-  <br>
-  [![](https://visitcount.itsvg.in/api?id=Sanidhya14321&icon=2&color=6)](https://visitcount.itsvg.in)
 </div>
