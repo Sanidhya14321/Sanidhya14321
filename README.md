@@ -22,7 +22,7 @@ Hi there! I'm Sanidhya, a **Full Stack Developer** with a passion for building i
 * **Backend:** `Node.js`, `Express.js`, `FastAPI`, `Flask`, `Django`
 * **Databases:** `MongoDB`, `PostgreSQL`, `MySQL`, `Firebase`, `Supabase`
 * **AI / ML:** `NumPy`, `Pandas`, `Scikit-learn`, `TensorFlow`, `PyTorch`
-* **DevOps & Tools:** `Docker`, `AWS`, `Heroku`, `Vercel`, `Git`, `GitHub`
+* **DevOps & Tools:** `Docker`, `AWS`, `Heroku`, `Vercel`, `Git`, `GitHub`, `GCP`
 
 ---
 
