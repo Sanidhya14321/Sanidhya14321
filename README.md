@@ -29,7 +29,7 @@ Hi there! I'm Sanidhya, a **Full Stack Developer** with a passion for building i
 ## 🚀 Featured Projects
 
 ### **Debate App**
-A real-time debate platform powered by AI. I used **Next.js (TypeScript)** and **Socket.IO** for real-time interactivity and integrated **FastAPI** to serve a **Hugging Face Transformers** model for automated scoring. The application is containerized with **Docker** and **Kubernetes**, and uses **PostgreSQL**, **MongoDB**, and **Redis** for robust data management, with **JWT** for secure authentication.
+A real-time debate platform powered by AI. I used **Next.js (TypeScript)** and **Socket.IO** for real-time interactivity and integrated **FastAPI** to serve a **Hugging Face Transformers** model for automated scoring. The application is containerized using **Docker** and **Kubernetes**, and utilizes **PostgreSQL**, **MongoDB**, and **Redis** for robust data management, along with **JWT** for secure authentication.
 
 ---
 
