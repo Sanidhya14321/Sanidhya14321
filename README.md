@@ -34,7 +34,7 @@ A real-time debate platform powered by AI. I used **Next.js (TypeScript)** and *
 ---
 
 ### **CareerCompass**
-An AI-powered career guidance application. This project uses **React.js** with **Vite** for a fast, responsive UI and leverages the **OpenAI API** and **Botpress** to provide personalized recommendations. The user experience is enhanced with **Framer Motion**, and a **Node.js** backend with **MongoDB** and **Firebase** ensures seamless data flow and storage.
+An AI-powered career guidance application. This project utilizes **React.js** with **Vite** for a fast and responsive UI, leveraging the **OpenAI API** and **Botpress** to provide personalized recommendations. The user experience is enhanced with **Framer Motion**, and a **Node.js** backend, combined with **MongoDB** and **Firebase**, ensures seamless data flow and storage.
 
 ---
 
