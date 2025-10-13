@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm Sanidhya, a **Full Stack Developer** with a passion for building intelligent, scalable applications that bridge the gap between web development and cutting-edge **AI** technologies. My expertise lies in the **MERN stack**, and I'm dedicated to leveraging **Deep Learning** and **Generative AI** to create impactful solutions. I'm always exploring new technologies and am currently focused on integrating production-ready AI models into real-world applications.
+Hi there! I'm Sanidhya, a **Full Stack Developer** with a passion for building intelligent, scalable applications that bridge the gap between web development and cutting-edge **AI** technologies. My expertise lies in the **MERN stack**, and I'm dedicated to leveraging **Deep Learning** and **Generative AI** to create impactful solutions. I'm always exploring new technologies and am currently focused on integrating production-ready AI agents into real-world applications.
 
 ---
 
