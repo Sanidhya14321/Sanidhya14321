@@ -18,7 +18,7 @@ Hi there! I'm Sanidhya, a **Full Stack Developer** with a passion for building i
 ## 💻 Skills
 
 * **Languages:** `Python`, `JavaScript`, `TypeScript`, `C++`, `SQL`
-* **Frontend:** `React`, `Next.js`, `Redux`, `Tailwind CSS`, `Framer Motion`
+* **Frontend:** `React`, `Next.js`, `Redux`, `Tailwind CSS`, 
 * **Backend:** `Node.js`, `Express.js`, `FastAPI`, `Flask`, `Django`
 * **Databases:** `MongoDB`, `PostgreSQL`, `MySQL`, `Firebase`, `Supabase`
 * **AI / ML:** `NumPy`, `Pandas`, `Scikit-learn`, `TensorFlow`, `PyTorch`
