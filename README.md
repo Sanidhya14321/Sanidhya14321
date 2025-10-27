@@ -21,7 +21,7 @@ Always eager to collaborate, experiment, and contribute to open-source innovatio
 
 * **Languages:** `Python`, `JavaScript`, `TypeScript`, `C++`, `SQL`, `C`, `Java` 
 * **Frontend:** `React`, `Next.js`, `Redux`, `Tailwind CSS`, 
-* **Backend:** `Node.js`, `Express.js`, `FastAPI`, `Flask`, `Django`
+* **Backend:** `Node.js`, `Express.js`, `FastAPI`, `Flask`
 * **Databases:** `MongoDB`, `PostgreSQL`, `MySQL`, `Firebase`, `Supabase`
 * **AI / ML:** `NumPy`, `Pandas`, `Scikit-learn`, `TensorFlow`, `PyTorch`
 * **DevOps & Tools:** `Docker`, `AWS`, `Heroku`, `Vercel`, `Git`, `GitHub`, `GCP`
