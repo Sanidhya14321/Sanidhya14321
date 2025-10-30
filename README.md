@@ -30,7 +30,7 @@ In the AI domain, I’m exploring Deep Learning, Generative AI, and intelligent 
 ## 🚀 Featured Projects
 
 ### **Debate App**
-A real-time debate platform powered by AI. I used **Next.js (TypeScript)** and **Socket.IO** for real-time interactivity and integrated **FastAPI** to serve a **Hugging Face Transformers** model for automated scoring. The application is containerized using **Docker**, and utilizes **PostgreSQL**, **MongoDB**, and **Redis** for robust data management.
+A real-time debate platform powered by AI. I used **Next.js (TypeScript)** and **Socket.IO** for real-time interactivity and integrated **FastAPI** to serve a **NLP** model for automated scoring. The application is containerized using **Docker**, and utilizes **PostgreSQL**, **MongoDB**, and **Redis** for robust data management.
 
 ---
 
