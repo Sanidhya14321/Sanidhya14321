@@ -14,7 +14,6 @@ Hi there! I'm Sanidhya, a Full Stack Developer driven by a deep interest in buil
 My expertise spans across both frontend and backend ecosystems — from crafting responsive UIs with React, Next.js, and Tailwind CSS, to developing efficient, secure APIs using Node.js, Express.js, Django, and FastAPI. I have hands-on experience working with databases like MongoDB, PostgreSQL, and Firebase, alongside a solid understanding of CI/CD pipelines, containerization (Docker), and cloud deployments.
 In the AI domain, I’m exploring Deep Learning, Generative AI, and intelligent agent development, focusing on integrating LLMs, LangChain. My current projects revolve around building production-ready AI agents that blend seamlessly with full-stack applications — bringing automation, personalization, and intelligence to user experiences.
 
-Always eager to collaborate, experiment, and contribute to open-source innovations that push the boundaries of what’s possible at the intersection of AI and software engineering.
 ---
 
 ## 💻 Skills
