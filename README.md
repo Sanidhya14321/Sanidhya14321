@@ -18,7 +18,7 @@ In the AI domain, I’m exploring Deep Learning, Generative AI, and intelligent 
 
 ## 💻 Skills
 
-* **Languages:** `Python`, `JavaScript`, `TypeScript`, `C++`, `SQL`, `C`, `Java` 
+* **Languages:** `Python`, `JavaScript`, `TypeScript`, `C++`, `MySQL`, `C`, `Java` 
 * **Frontend:** `React`, `Next.js`, `Redux`, `Tailwind CSS`, 
 * **Backend:** `Node.js`, `Express.js`, `FastAPI`, `Flask`
 * **Databases:** `MongoDB`, `PostgreSQL`, `MySQL`, `Firebase`, `Supabase`
