@@ -18,12 +18,16 @@ In the AI domain, I’m exploring Deep Learning, Generative AI, and intelligent 
 
 ## 💻 Skills
 
-* **Languages:** `Python`, `JavaScript`, `TypeScript`, `C++`, `MySQL`, `C`, `Java` 
-* **Frontend:** `React`, `Next.js`, `Redux`, `Tailwind CSS`, 
-* **Backend:** `Node.js`, `Express.js`, `FastAPI`, `Flask`
-* **Databases:** `MongoDB`, `PostgreSQL`, `MySQL`, `Firebase`, `Supabase`
-* **AI / ML:** `NumPy`, `Pandas`, `Scikit-learn`, `TensorFlow`, `PyTorch`
-* **DevOps & Tools:** `Docker`, `AWS`, `Heroku`, `Vercel`, `Git`, `GitHub`, `GCP`
+### 🧠 Tech Stack
+
+| **Category**      | **Technologies** |
+|--------------------|------------------|
+| **Languages**      | `Python` · `JavaScript` · `TypeScript` · `C++` · `MySQL` · `C` · `Java` |
+| **Frontend**       | `React` · `Next.js` · `Redux` · `Tailwind CSS` |
+| **Backend**        | `Node.js` · `Express.js` · `FastAPI` · `Flask` |
+| **Databases**      | `MongoDB` · `PostgreSQL` · `MySQL` · `Firebase` · `Supabase` |
+| **AI / ML**        | `NumPy` · `Pandas` · `Scikit-learn` · `TensorFlow` · `PyTorch` |
+| **DevOps & Tools** | `Docker` · `AWS` · `Heroku` · `Vercel` · `Git` · `GitHub` · `GCP` |
 
 ---
 
