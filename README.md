@@ -82,6 +82,6 @@ A secure student community platform. This application features robust, **JWT**-b
 ---
 
 <div align="center">
-  ✨ Thanks for stopping by! ✨
+  ✨ Thanks for stopping by!✨
   <br>
 </div>
