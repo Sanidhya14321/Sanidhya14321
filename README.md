@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hello there! I'm Sanidhya, a developer driven to build intelligent, high-performance applications.
 
@@ -21,7 +21,7 @@ My goal is to bridge the gap between cutting-edge web technologies and powerful 
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
