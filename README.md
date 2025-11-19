@@ -84,7 +84,7 @@ My goal is to bridge the gap between cutting-edge web technologies and powerful 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table width="100%">
   <tr>
@@ -135,7 +135,7 @@ My goal is to bridge the gap between cutting-edge web technologies and powerful 
 
 ---
 
-## 📊 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya14321&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -150,12 +150,12 @@ My goal is to bridge the gap between cutting-edge web technologies and powerful 
 
 ---
 
-## ✍️ Quote of the Day
+##  Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <div align="center">
   <p>Let's build something amazing together. Feel free to connect with me!</p>
