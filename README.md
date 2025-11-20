@@ -17,8 +17,6 @@ Hello there! I'm Sanidhya, a developer driven to build intelligent, high-perform
 *  **AI & ML Integration:** I am actively expanding my skills in **Deep Learning**, **Generative AI**, and **LLMs**, using tools like **LangChain** and **PyTorch/TensorFlow** to build smart, automated applications.
 *  **Database & DevOps:** I'm experienced with **MongoDB**, **PostgreSQL**, and **Firebase**, and comfortable with **Docker**, **CI/CD**, and cloud deployments (AWS, Vercel, GCP).
 
-My goal is to bridge the gap between cutting-edge web technologies and powerful AI capabilities.
-
 ---
 
 ##  Tech Stack
