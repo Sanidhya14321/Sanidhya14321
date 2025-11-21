@@ -88,7 +88,7 @@ Hello there! I'm Sanidhya, a developer driven to build intelligent, high-perform
   <tr>
     <td width="100%">
       <h3>Debate App</h3>
-      <p>A real-time, AI-powered debate platform. I used <b>Next.js (TypeScript)</b> and <b>Socket.IO</b> for real-time interaction and integrated <b>FastAPI</b> to serve a <b>NLP</b> model for automated scoring. The application is containerized using <b>Docker</b>, and utilizes <b>PostgreSQL</b>, <b>MongoDB</b>, and <b>Redis</b> for robust data management.</p>
+      <p>A real-time, AI-powered debate platform. I used <b>Next.js (TypeScript)</b> and <b>Socket.IO</b> for real-time interaction and integrated <b>FastAPI</b> to serve an <b>NLP</b> model and generative ai for automated scoring. The application is containerized using <b>Docker</b>, and utilizes <b>PostgreSQL</b>, <b>MongoDB</b>, and <b>Redis</b> for robust data management.</p>
       <br>
       <a href="https://debate-app-1.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=Vercel&logoColor=white" />
