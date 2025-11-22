@@ -11,12 +11,11 @@
 
 ##  About Me
 
-Hello there! I'm Sanidhya, a developer driven to build intelligent, high-performance applications.
+I specialize in engineering scalable web solutions and integrating Artificial Intelligence to create smart, automated systems.
 
-*  **Full Stack Expertise:** I specialize in robust system architectures, from responsive UIs with **React/Next.js** to secure, efficient backends using **Node.js, Express, Django, & FastAPI**.
-*  **AI & ML Integration:** I am actively expanding my skills in **Deep Learning**, **Generative AI**, and **LLMs**, using tools like **LangChain** and **PyTorch/TensorFlow** to build smart, automated applications.
-*  **Database & DevOps:** I'm experienced with **MongoDB**, **PostgreSQL**, and **Firebase**, and comfortable with **Docker**, **CI/CD**, and cloud deployments (AWS, Vercel, GCP).
-
+* **Full Stack Architecture:** designing responsive UIs with **React/Next.js** and securing efficient backends using **Node.js, Express, Django, & FastAPI**.
+* **AI & ML Integration:** actively building with **Deep Learning**, **Generative AI**, and **LLMs**, utilizing **LangChain** and **PyTorch/TensorFlow**.
+* **Cloud & DevOps:** orchestrating deployments with **Docker**, **CI/CD pipelines**, and cloud infrastructure on **AWS and GCP**.
 ---
 
 ##  Tech Stack
