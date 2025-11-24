@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5FF727&center=true&vCenter=true&width=700&lines=👋+Hi!+I'm+Sanidhya+Vats;🚀+Full+Stack+Developer;🤖+AI+%2F+ML+Enthusiast;⚡+Web+%2B+AI+Integrator" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5FF727&center=true&vCenter=true&width=700&lines=👋+Hi!+I'm+Sanidhya+Vats;🤖+AI+Engineer+%26+Developer;🧠+Deep+Learning+%2F+NLP;⚡+Building+Smart+Systems" />
   </a>
   <br>
   <br>
@@ -11,83 +11,70 @@
 
 ##  About Me
 
-I specialize in engineering scalable web solutions and integrating Artificial Intelligence to create smart, automated systems.
+I specialize in the convergence of **Software Engineering** and **Artificial Intelligence**, architecting systems that don't just process data—they understand it. My focus is on moving ML models from research notebooks to production-grade applications.
 
-* **Full Stack Architecture:** designing responsive UIs with **React/Next.js** and securing efficient backends using **Node.js, Express, Django, & FastAPI**.
-* **AI & ML Integration:** actively building with **Deep Learning**, **Generative AI**, and **LLMs**, utilizing **LangChain** and **PyTorch/TensorFlow**.
-* **Cloud & DevOps:** orchestrating deployments with **Docker**, **CI/CD pipelines**, and cloud infrastructure on **AWS and GCP**.
+* **AI & ML Engineering:** Developing custom **NLP** and **Computer Vision** pipelines using **PyTorch/TensorFlow**. Experienced in fine-tuning **LLMs**, implementing **RAG** architectures with **LangChain**, and utilizing Generative AI.
+* **MLOps & Backend:** Serving models efficiently via **FastAPI**, containerizing with **Docker**, and managing data flow with **PostgreSQL/MongoDB**.
+* **Full Stack Integration:** Bridging the gap between complex algorithms and user-friendly interfaces using **React/Next.js**.
+
 ---
 
 ##  Tech Stack
 
 <div align="center">
 
+###  Core AI & Data Science
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </p>
 
-### Frontend
+### Model Serving & Backend
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Frontend & Tools
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
-
-### AI / ML
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SciKit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 </div>
 
 ---
 
-##  Featured Projects
+##  Featured AI & Engineering Projects
 
 <table width="100%">
   <tr>
     <td width="100%">
-      <h3>Debate App</h3>
-      <p>A real-time, AI-powered debate platform. I used <b>Next.js (TypeScript)</b> and <b>Socket.IO</b> for real-time interaction and integrated <b>FastAPI</b> to serve an <b>NLP</b> model and generative ai for automated scoring. The application is containerized using <b>Docker</b>, and utilizes <b>PostgreSQL</b>, <b>MongoDB</b>, and <b>Redis</b> for robust data management.</p>
+      <h3>🤖 NLP-Powered Debate Platform</h3>
+      <p>A real-time debate analysis system bridging full-stack eng with NLP.
+      <br>
+      • <b>AI Architecture:</b> Integrated generative models to evaluate logical consistency and sentiment in real-time text streams.<br>
+      • <b>Serving:</b> High-performance model serving using <b>FastAPI</b> with <b>Socket.IO</b> for low-latency feedback.<br>
+      • <b>Stack:</b> Next.js (TS), Python, Docker, Redis, Postgres.</p>
       <br>
       <a href="https://debate-app-1.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=Vercel&logoColor=white" />
@@ -101,8 +88,12 @@ I specialize in engineering scalable web solutions and integrating Artificial In
 
   <tr>
     <td width="100%">
-      <h3>CareerCompass</h3>
-      <p>An AI-powered career guidance application. This project utilizes <b>React.js</b> with <b>Vite</b> for a fast and responsive UI, leveraging the <b>OpenAI API</b> and <b>Botpress</b> to provide personalized recommendations. The user experience is enhanced with <b>Framer Motion</b>, and a <b>Node.js</b> backend, combined with <b>MongoDB</b> and <b>Firebase</b>, ensures seamless data flow and storage.</p>
+      <h3>🧠 CareerCompass (Intelligent Recommendation Engine)</h3>
+      <p>A personalized career guidance system utilizing LLMs for context-aware advice.
+      <br>
+      • <b>Algorithm:</b> Utilizes the <b>OpenAI API</b> with custom prompt engineering to generate tailored roadmaps based on user constraints.<br>
+      • <b>Data Flow:</b> Seamless integration of unstructured user data via <b>MongoDB</b> into structured prompts for the inference engine.<br>
+      • <b>Stack:</b> React + Vite, Botpress, Node.js, Firebase.</p>
       <br>
       <a href="https://careercompass-xi.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=Vercel&logoColor=white" />
@@ -116,8 +107,10 @@ I specialize in engineering scalable web solutions and integrating Artificial In
 
   <tr>
     <td width="100%">
-      <h3>SPARK</h3>
-      <p>A secure student community platform. This application features robust, <b>JWT</b>-based authentication with <b>Bcrypt.js</b> for secure credential hashing. The front end is built with <b>React.js</b> and <b>Tailwind CSS</b>, while <b>Redux + RTK Query</b> powers efficient data fetching. A scalable data model is maintained with <b>MongoDB</b> and <b>Mongoose</b>.</p>
+      <h3>🔐 SPARK (Secure Community Architecture)</h3>
+      <p>While primarily a web application, SPARK demonstrates secure data handling and scalable architecture.<br>
+      • <b>Security:</b> Implemented <b>JWT</b> authentication and <b>Bcrypt</b> hashing, essential for securing AI API endpoints.<br>
+      • <b>Scalability:</b> Optimized <b>RTK Query</b> caching and <b>Mongoose</b> schemas for high-traffic data retrieval.</p>
       <br>
       <a href="https://github.com/Sanidhya14321/Spark-sanidhya" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=Vercel&logoColor=white" />
@@ -155,7 +148,7 @@ I specialize in engineering scalable web solutions and integrating Artificial In
 ##  Connect with Me
 
 <div align="center">
-  <p>Let's build something amazing together. Feel free to connect with me!</p>
+  <p>Let's discuss Deep Learning, Web Architecture, or build something amazing together.</p>
   <br>
   <a href="https://www.linkedin.com/in/sanidhya-vats-9344522b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -171,5 +164,5 @@ I specialize in engineering scalable web solutions and integrating Artificial In
 ---
 
 <div align="center">
-  ✨ Thanks for stopping by!✨
+  ✨ Thanks for stopping by! ✨
 </div>
