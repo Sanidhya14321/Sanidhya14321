@@ -15,7 +15,7 @@ I specialize in the convergence of **Software Engineering** and **Artificial Int
 
 * **AI & ML Engineering:** Developing custom **NLP** and **Computer Vision** pipelines using **PyTorch/TensorFlow**. Experienced in fine-tuning **LLMs**, implementing **RAG** architectures with **LangChain**, and utilizing Generative AI.
 * **MLOps & Backend:** Serving models efficiently via **FastAPI**, containerizing with **Docker**, and managing data flow with **PostgreSQL/MongoDB**.
-* **Full Stack Integration:** Bridging the gap between complex algorithms and user-friendly interfaces using **React/Next.js**.
+* **Full Stack Integration:** Bridging the gap between complex models and user-friendly interfaces using **Next.js**.
 
 ---
 
