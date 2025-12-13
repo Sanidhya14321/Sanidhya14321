@@ -69,7 +69,7 @@ I specialize in the convergence of **Software Engineering** and **Artificial Int
 <table width="100%">
   <tr>
     <td width="100%">
-      <h3>🤖 NLP-Powered Debate Platform</h3>
+      <h3>🤖 Debate Platform</h3>
       <p>A real-time debate analysis system bridging full-stack eng with NLP.
       <br>
       • <b>AI Architecture:</b> Integrated generative models to evaluate logical consistency and sentiment in real-time text streams.<br>
