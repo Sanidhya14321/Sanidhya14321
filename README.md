@@ -140,11 +140,6 @@ I specialize in the convergence of **Software Engineering** and **Artificial Int
 
 ---
 
-##  Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
 ##  Connect with Me
 
 <div align="center">
