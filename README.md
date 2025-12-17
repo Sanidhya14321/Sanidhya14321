@@ -69,7 +69,7 @@ I specialize in the convergence of **Software Engineering** and **Artificial Int
 <table width="100%">
   <tr>
     <td width="100%">
-      <h3>🤖 Debate Platform</h3>
+      <h3> Debate Platform</h3>
       <p>A real-time debate analysis system bridging full-stack eng with NLP.
       <br>
       • <b>AI Architecture:</b> Integrated generative models to evaluate logical consistency and sentiment in real-time text streams.<br>
@@ -88,7 +88,7 @@ I specialize in the convergence of **Software Engineering** and **Artificial Int
 
   <tr>
     <td width="100%">
-      <h3>🧠 CareerCompass (Intelligent Recommendation Engine)</h3>
+      <h3> CareerCompass (Intelligent Recommendation Engine)</h3>
       <p>A personalized career guidance system utilizing LLMs for context-aware advice.
       <br>
       • <b>Algorithm:</b> Utilizes the <b>OpenAI API</b> with custom prompt engineering to generate tailored roadmaps based on user constraints.<br>
@@ -107,7 +107,7 @@ I specialize in the convergence of **Software Engineering** and **Artificial Int
 
   <tr>
     <td width="100%">
-      <h3>🔐 SPARK (Secure Community Architecture)</h3>
+      <h3> SPARK (Secure Community Architecture)</h3>
       <p>While primarily a web application, SPARK demonstrates secure data handling and scalable architecture.<br>
       • <b>Security:</b> Implemented <b>JWT</b> authentication and <b>Bcrypt</b> hashing, essential for securing AI API endpoints.<br>
       • <b>Scalability:</b> Optimized <b>RTK Query</b> caching and <b>Mongoose</b> schemas for high-traffic data retrieval.</p>
