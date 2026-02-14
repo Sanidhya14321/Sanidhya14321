@@ -11,7 +11,7 @@
 
 ##  About Me
 
-I specialize in the convergence of **Software Engineering** and **Artificial Intelligence**, architecting systems that don't just process data—they understand it. My focus is on moving ML models from research notebooks to production-grade applications.
+I specialize in the convergence of **Software Engineering** and **Artificial Intelligence**, architecting systems that don't just process data they understand it. My focus is on moving ML models from research notebooks to production-grade applications.
 
 * **AI & ML Engineering:** Developing custom **NLP** and **Computer Vision** pipelines using **PyTorch/TensorFlow**. Experienced in fine-tuning **LLMs**, implementing **RAG** architectures with **LangChain**, and utilizing Generative AI.
 * **MLOps & Backend:** Serving models efficiently via **FastAPI**, containerizing with **Docker**, and managing data flow with **PostgreSQL/MongoDB**.
