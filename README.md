@@ -1,49 +1,33 @@
-![Sanidhya Vats · Software and AI tools · Build, inspect, iterate](./assets/profile-banner.svg)
+![Sanidhya Vats · AI Engineer](./assets/profile-banner.svg)
 
-I build coding agents and creative tools that let you review what AI changes, resume work later, and keep editing the result yourself.
+I build AI systems that can act, show their work, and hand control back to the user. My focus is coding agent runtimes, evaluations, and tools for editing video and voice.
 
-[**Portfolio ↗**](https://www.sanidhyavats.me/) · [**All projects ↗**](https://www.sanidhyavats.me/works) · [**LinkedIn ↗**](https://www.linkedin.com/in/sanidhya-vats-9344522b7/)
+[Portfolio](https://www.sanidhyavats.me/) · [LinkedIn](https://www.linkedin.com/in/sanidhya-vats-9344522b7/)
 
-## Explore the projects
+## GoHarness · Coding agent runtime
 
-Choose a section to see project details, screenshots, and demos.
+A local-first coding agent written in Go. It previews edits for approval, resumes sessions from a durable journal, and tells you whether it verified its work. Its evaluation runner grades changes in a clean copy of the task with hidden tests.
+
+[Source](https://github.com/Sanidhya14321/goh) · [Architecture](https://github.com/Sanidhya14321/goh/blob/main/docs/ARCHITECTURE.md) · [Evaluation reports](https://github.com/Sanidhya14321/goh/tree/main/docs/bench)
 
 <details>
-<summary><strong>01 · Coding agents</strong> — GoHarness and Harvest</summary>
+<summary><strong>See a GoHarness session and how it’s evaluated</strong></summary>
 
-### GoHarness
+[![GoHarness terminal showing an edit, verification output, and the session sidebar](https://raw.githubusercontent.com/Sanidhya14321/goh/a62321d02e9104493aacf8ddeaec29be6fbb8488/docs/images/tui-session.png)](https://github.com/Sanidhya14321/goh)
 
-[![GoHarness terminal session with an edit, verification result, and session sidebar](https://raw.githubusercontent.com/Sanidhya14321/goh/main/docs/images/tui-session.png)](https://github.com/Sanidhya14321/goh)
-
-The Go harness runs interactively or headlessly. It stores a session journal for resuming work and distinguishes verified changes from changes that still need a check.
-
-[Read the source and setup guide ↗](https://github.com/Sanidhya14321/goh)
-
-### Harvest
-
-A TypeScript terminal workspace with language servers for code navigation, persistent evaluation kernels, and coordinated subagents.
-
-[See the interface and source ↗](https://github.com/Sanidhya14321/harvest)
+The harness records what it verified during a run. The benchmark grades the resulting patch independently and tracks cases where the agent reported completion but the patch failed.
 
 </details>
 
-<details>
-<summary><strong>02 · Video and voice</strong> — Cueframe, ClipKit Studio, Video Forge, and Undertone</summary>
+## AI for video and voice
 
-- **[Cueframe](https://github.com/Sanidhya14321/cueframe)** · A local-first Remotion studio with reusable clips, multiple tracks, captions, and edits through an AI assistant. Built with Sonal Nautiyal.
-- **[ClipKit Studio](https://github.com/Sanidhya14321/clipkit-studio)** · A Rust-powered video editor where the agent makes reversible edits and you can take over in the browser.
-- **[Video Forge](https://github.com/Sanidhya14321/video-forge)** · Make short films with Claude Code or Codex, keep the scenes editable as React code, and render locally. [See the motion demo ↗](https://github.com/Sanidhya14321/video-forge#see-the-motion)
-- **[Undertone](https://github.com/Sanidhya14321/undertone)** · A voice studio and browser companion for expressive speech and dialogue. [Open the studio ↗](https://undertone.vercel.app/studio)
+**[ClipKit Studio](https://github.com/Sanidhya14321/clipkit-studio)** · A Rust-powered video editor that turns an agent’s decisions into reversible timeline edits. Watch the work in a browser studio, then take over and edit it yourself. [See what works today](https://github.com/Sanidhya14321/clipkit-studio/blob/main/VERIFICATION.md)
 
-[![Undertone voice workspace](https://raw.githubusercontent.com/Sanidhya14321/undertone/main/docs/images/undertone-studio.png)](https://undertone.vercel.app/studio)
-
-</details>
+**[Undertone](https://github.com/Sanidhya14321/undertone)** · A Fish Audio voice studio and browser companion for directing expressive dialogue, auditioning voices, and transcribing recordings to subtitles. [Open the studio](https://undertone.vercel.app/studio)
 
 <details>
-<summary><strong>03 · Learning tools</strong> — QuestionFlow</summary>
+<summary><strong>See the Undertone workspace</strong></summary>
 
-**[QuestionFlow](https://github.com/Sanidhya14321/questionflow)** is a computer science assessment platform built with Next.js, TypeScript, and PostgreSQL. Browse curated quizzes, publish your own, or generate questions with AI.
-
-[Try the interactive quiz preview ↗](https://questionflow.vercel.app/)
+[![Undertone voice workspace](https://raw.githubusercontent.com/Sanidhya14321/undertone/9281b6e3a005dba8a277997a1c86ecd6df65e6ae/docs/images/undertone-studio.png)](https://undertone.vercel.app/studio)
 
 </details>

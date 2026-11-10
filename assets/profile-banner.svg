@@ -1,39 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" width="720" height="280" role="img" aria-labelledby="title desc">
-  <title id="title">Sanidhya Vats</title>
-  <desc id="desc">Software and AI tools. Build, inspect, and iterate.</desc>
-  <defs>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" fill="none" stroke="#30334f" stroke-width="1"/>
-    </pattern>
-    <clipPath id="frame">
-      <rect width="720" height="280" rx="20"/>
-    </clipPath>
-    <linearGradient id="fade">
-      <stop offset=".52" stop-color="#15172b"/>
-      <stop offset="1" stop-color="#15172b" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <g clip-path="url(#frame)">
-    <path fill="#15172b" d="M0 0h720v280H0z"/>
-    <path fill="url(#grid)" d="M0 0h720v280H0z"/>
-    <path fill="url(#fade)" d="M0 0h720v280H0z"/>
-    <g fill="none" stroke="#9c9af1" transform="translate(624 142)">
-      <circle r="101" opacity=".36"/>
-      <circle r="74" opacity=".52"/>
-      <circle r="47" opacity=".8"/>
-      <ellipse rx="104" ry="35" transform="rotate(-40)"/>
-      <path d="M-114 0h228M0-114v228" opacity=".3"/>
-      <path d="M-14-17-29 0l15 17m28-34L29 0 14 17M6-23-6 23" stroke="#efeaff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-      <circle cx="78" cy="-58" r="5.5" fill="#f9ca91" stroke="#15172b" stroke-width="2"/>
-      <circle cx="-74" cy="67" r="4.5" fill="#bdb6ff" stroke="#15172b" stroke-width="2"/>
-    </g>
-    <path d="M37 235h430" stroke="#555777"/>
-    <!-- Golden scale: 24 × φ = 38.83, then 38.83 × φ = 62.83. -->
-    <g font-family="system-ui, -apple-system, sans-serif">
-      <text x="37" y="64" fill="#f9ca91" font-size="24" font-weight="650" letter-spacing="2">SOFTWARE &amp; AI TOOLS</text>
-      <text x="34" y="139" fill="#fff5e5" font-size="62.83" font-weight="750" letter-spacing="-2.6">Sanidhya Vats</text>
-      <text x="37" y="197" fill="#d3ccff" font-size="38.83" font-weight="500" letter-spacing="-1.4">Build, inspect, iterate.</text>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="142" viewBox="0 0 640 142" role="img" aria-labelledby="title">
+  <title id="title">Sanidhya Vats, AI engineer</title>
+  <rect width="640" height="142" rx="9" fill="#13171c"/>
+  <rect x=".5" y=".5" width="639" height="141" rx="8.5" fill="none" stroke="#414c58"/>
+  <path d="M27 24v94" stroke="#85e0bd" stroke-width="2"/>
+  <!-- Type scale: 18, 18 × φ, 18 × φ² -->
+  <g font-family="system-ui, sans-serif">
+    <text x="44" y="70" fill="#f3f6f8" font-size="47.12" font-weight="720" letter-spacing="-1.8">Sanidhya Vats</text>
+    <text x="45" y="108" fill="#85e0bd" font-size="29.12" font-weight="520" letter-spacing="-.7">AI Engineer</text>
   </g>
-  <rect x=".5" y=".5" width="719" height="279" rx="19.5" fill="none" stroke="#6b6695"/>
+  <g fill="none" stroke="#85e0bd" stroke-width="1.5" opacity=".75">
+    <path d="M433 96h39l11-19h33l11-19h35l11-19h34"/>
+    <circle cx="433" cy="96" r="3" fill="#13171c"/>
+    <circle cx="607" cy="39" r="3" fill="#13171c"/>
+  </g>
+  <text x="433" y="119" fill="#b6c1cc" font-family="ui-monospace, monospace" font-size="18">BUILD / EVALUATE</text>
 </svg>
