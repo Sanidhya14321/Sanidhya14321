@@ -1,70 +1,23 @@
 # Sanidhya Vats
-**AI Engineer & Software Developer**
 
----
+**I build coding agents and creative tools that keep people in control.**
 
-## Professional Summary
+My projects span Go terminal tools, Rust video tooling, and TypeScript apps. I’m especially interested in what happens after an AI suggests a change: how you review it, pick up where you left off, or keep editing the result yourself.
 
-I specialize in the convergence of Software Engineering and Artificial Intelligence, architecting systems that process data with contextual understanding. My primary focus is transitioning machine learning models from research environments into scalable, production-grade applications.
+[Portfolio](https://www.sanidhyavats.me/) · [Project archive](https://www.sanidhyavats.me/works) · [LinkedIn](https://www.linkedin.com/in/sanidhya-vats-9344522b7/)
 
-My expertise spans developing custom NLP and Computer Vision pipelines, fine-tuning Large Language Models (LLMs), and implementing Retrieval-Augmented Generation (RAG) architectures. I am deeply invested in MLOps, ensuring that complex models are served efficiently, containerized properly, and integrated seamlessly into user-facing platforms.
+## Coding agents
 
----
+- **[GoHarness](https://github.com/Sanidhya14321/goh)** — A local-first coding agent written in Go. It runs in a terminal or headlessly, keeps a journal so sessions can resume, and reports whether it verified its changes.
+- **[Harvest](https://github.com/Sanidhya14321/harvest)** — A terminal coding workspace with language-server integration, persistent evaluation kernels, and coordinated subagents.
 
-## Technical Stack
+## Video and voice
 
-| Category | Technologies |
-| :--- | :--- |
-| **Core AI & Data Science** | PyTorch, TensorFlow, LangChain, LangGraph, Hugging Face, Scikit-Learn, OpenCV, Pandas, NumPy |
-| **Programming Languages** | Python, C++, TypeScript, JavaScript |
-| **Model Serving & Backend** | FastAPI, Docker, Node.js, PostgreSQL, MongoDB, Redis |
-| **Frontend & Cloud** | React, Next.js, AWS, Git |
+- **[Cueframe](https://github.com/Sanidhya14321/cueframe)** — A local-first video studio built on Remotion. Arrange reusable animation clips on a multitrack timeline, edit with an assistant, and export a finished video. Built with Sonal Nautiyal.
+- **[ClipKit Studio](https://github.com/Sanidhya14321/clipkit-studio)** — A Rust-powered video editor where a coding agent makes reversible edits and you can take over in the browser.
+- **[Video Forge](https://github.com/Sanidhya14321/video-forge)** — Tools for making short films with Claude Code or Codex. The scenes stay editable as React code and render locally with Remotion and FFmpeg.
+- **[Undertone](https://github.com/Sanidhya14321/undertone)** — A voice studio and browser companion for directing speech, casting dialogue, and turning recordings into subtitles with Fish Audio. [Open the studio](https://undertone.vercel.app/studio)
 
----
+## Learning tools
 
-## Featured Projects
-
-> ### AI Debate Platform
-> A real-time debate analysis system bridging full-stack engineering with Natural Language Processing.
-> * **Architecture:** Integrated generative models to evaluate logical consistency and sentiment in real-time text streams.
-> * **Serving:** High-performance model serving using FastAPI with Socket.IO for low-latency feedback.
-> * **Stack:** Next.js (TypeScript), Python, Docker, Redis, PostgreSQL.
-> 
-> **Links:** [Live Demo](https://debate-app-1.vercel.app/) • [Source Code](https://github.com/Sanidhya14321/Debate-App-1)
-
-> ### CareerCompass
-> A personalized career guidance system utilizing LLMs for context-aware advice.
-> * **Algorithm:** Utilizes the OpenAI API with custom prompt engineering to generate tailored roadmaps based on user constraints.
-> * **Data Flow:** Seamless integration of unstructured user data via MongoDB into structured prompts for the inference engine.
-> * **Stack:** React, Vite, Node.js, MongoDB, Firebase.
-> 
-> **Links:** [Live Demo](https://careercompass-xi.vercel.app/) • [Source Code](https://github.com/Sanidhya14321/careerCompass)
-
-> ### SPARK (Secure Community Architecture)
-> A scalable web application demonstrating secure data handling and optimized architecture.
-> * **Security:** Implemented JWT authentication and Bcrypt hashing protocols, essential for securing API endpoints.
-> * **Scalability:** Optimized RTK Query caching and Mongoose schemas for high-traffic data retrieval.
-> * **Stack:** React, Node.js, MongoDB.
-> 
-> **Links:** [Source Code](https://github.com/Sanidhya14321/Spark-sanidhya)
-
----
-
-## GitHub Statistics
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sanidhya14321&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&count_private=true" alt="GitHub Stats" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidhya14321&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top Languages" height="165" />
-    <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanidhya14321&hide_border=true&bg_color=ffffff&color=000000&line=808080&point=000000&area=true" alt="GitHub Activity Graph" width="95%" />
-</div>
-
----
-
-## Contact
-
-* **LinkedIn:** [sanidhya-vats](https://www.linkedin.com/in/sanidhya-vats-9344522b7/)
-* **Discord:** [sanidhya_vats](https://discord.gg/sanidhya_vats)
-* **Instagram:** [_vats14321](https://instagram.com/_vats14321)
-
-Thank you for reviewing my profile.
+- **[QuestionFlow](https://github.com/Sanidhya14321/questionflow)** — A computer science assessment platform for practicing with curated quizzes, publishing your own, and generating new questions with AI. [Try the demo](https://questionflow.vercel.app/)
