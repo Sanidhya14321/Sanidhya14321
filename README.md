@@ -1,33 +1,37 @@
-![Sanidhya Vats · AI Engineer](./assets/profile-banner.svg)
+![Sanidhya Vats · AI Engineer](https://raw.githubusercontent.com/Sanidhya14321/Sanidhya14321/b51d20267572c213eb329df0788c63e933742aaa/assets/profile-banner.svg)
 
-I build AI systems that can act, show their work, and hand control back to the user. My focus is coding agent runtimes, evaluations, and tools for editing video and voice.
+I build coding agents, retrieval systems, and AI applications for assessment, video, and voice. I focus on how these systems use tools, cite evidence, and verify their outputs.
 
 [Portfolio](https://www.sanidhyavats.me/) · [LinkedIn](https://www.linkedin.com/in/sanidhya-vats-9344522b7/)
 
-## GoHarness · Coding agent runtime
+## Selected projects
 
-A local-first coding agent written in Go. It previews edits for approval, resumes sessions from a durable journal, and tells you whether it verified its work. Its evaluation runner grades changes in a clean copy of the task with hidden tests.
+### GoHarness · Coding agents and evaluation
 
-[Source](https://github.com/Sanidhya14321/goh) · [Architecture](https://github.com/Sanidhya14321/goh/blob/main/docs/ARCHITECTURE.md) · [Evaluation reports](https://github.com/Sanidhya14321/goh/tree/main/docs/bench)
+A local-first Go coding agent with scoped tool approvals, recoverable sessions, and configurable checks that feed failures back into the agent loop. Its evaluation runner grades patches against hidden tests and tracks false completions.
 
-<details>
-<summary><strong>See a GoHarness session and how it’s evaluated</strong></summary>
+[Repository](https://github.com/Sanidhya14321/goh) · [Architecture](https://github.com/Sanidhya14321/goh/blob/main/docs/ARCHITECTURE.md) · [Evaluation reports](https://github.com/Sanidhya14321/goh/tree/main/docs/benchmarks)
 
-[![GoHarness terminal showing an edit, verification output, and the session sidebar](https://raw.githubusercontent.com/Sanidhya14321/goh/a62321d02e9104493aacf8ddeaec29be6fbb8488/docs/images/tui-session.png)](https://github.com/Sanidhya14321/goh)
+### ORGOS · Goal planning and handbook Q&A
 
-The harness records what it verified during a run. The benchmark grades the resulting patch independently and tracks cases where the agent reported completion but the patch failed.
+Uses BullMQ workers to break organizational goals into tasks. Its handbook assistant retrieves policy passages scoped to the organization, cites its sources, and abstains when the retrieved evidence is weak.
 
-</details>
+[Repository](https://github.com/Sanidhya14321/ORGOS) · [Planning worker](https://github.com/Sanidhya14321/ORGOS/blob/8eef1c8543eaecf30efa209e73211c94f59a3b53/apps/api/src/queue/workers/decompose.csuite.worker.ts) · [Retrieval pipeline](https://github.com/Sanidhya14321/ORGOS/blob/8eef1c8543eaecf30efa209e73211c94f59a3b53/packages/agent-core/src/ragPipeline/runPipeline.ts)
 
-## AI for video and voice
+### QuestionFlow · AI-assisted computer science assessments
 
-**[ClipKit Studio](https://github.com/Sanidhya14321/clipkit-studio)** · A Rust-powered video editor that turns an agent’s decisions into reversible timeline edits. Watch the work in a browser studio, then take over and edit it yourself. [See what works today](https://github.com/Sanidhya14321/clipkit-studio/blob/main/VERIFICATION.md)
+Uses Groq to generate questions and recommend assessments. The app validates generated questions against a schema, grades submissions server-side, and saves results for review.
 
-**[Undertone](https://github.com/Sanidhya14321/undertone)** · A Fish Audio voice studio and browser companion for directing expressive dialogue, auditioning voices, and transcribing recordings to subtitles. [Open the studio](https://undertone.vercel.app/studio)
+[Repository](https://github.com/Sanidhya14321/questionflow) · [Live app](https://questionflow.vercel.app/) · [Grading tests](https://github.com/Sanidhya14321/questionflow/blob/496e138a647a704b1a6cbecf7ed557a4344f51a6/tests/grade-assessment.test.ts)
 
-<details>
-<summary><strong>See the Undertone workspace</strong></summary>
+### Video Forge · Agent-assisted video production
 
-[![Undertone voice workspace](https://raw.githubusercontent.com/Sanidhya14321/undertone/9281b6e3a005dba8a277997a1c86ecd6df65e6ae/docs/images/undertone-studio.png)](https://undertone.vercel.app/studio)
+A toolkit for authoring short-form video as editable React compositions with Codex or Claude Code. Its local Remotion and FFmpeg pipeline renders previews and exports video and captions alongside editable source and a checksummed asset manifest.
 
-</details>
+[Repository](https://github.com/Sanidhya14321/video-forge) · [Rendered demo](https://github.com/Sanidhya14321/video-forge#see-the-motion) · [Release](https://github.com/Sanidhya14321/video-forge/releases/tag/v0.7.1)
+
+### Undertone · Voice AI studio and browser companion
+
+A Fish Audio studio for expressive speech, multi-speaker dialogue, and transcription with subtitle exports. On-device translation preserves speaker tags and lets users review translated text before synthesis on supported desktop Chrome setups.
+
+[Repository](https://github.com/Sanidhya14321/undertone) · [Live studio](https://undertone.vercel.app/studio) · [Extension release](https://github.com/Sanidhya14321/undertone/releases/tag/v0.2.0-beta.1)
