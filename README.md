@@ -1,16 +1,24 @@
 ![Sanidhya Vats · AI Engineer](https://raw.githubusercontent.com/Sanidhya14321/Sanidhya14321/b51d20267572c213eb329df0788c63e933742aaa/assets/profile-banner.svg)
 
-I build coding agents, retrieval systems, and AI applications for assessment, video, and voice. I focus on how these systems use tools, cite evidence, and verify their outputs.
+I build and evaluate AI agents that use tools to work on code. I also build retrieval systems and AI applications for assessment, video, and voice.
 
 [Portfolio](https://www.sanidhyavats.me/) · [LinkedIn](https://www.linkedin.com/in/sanidhya-vats-9344522b7/)
 
-## Selected projects
+## Agentic AI
 
-### GoHarness · Coding agents and evaluation
+### GoHarness (`goh`) · Go coding agent and evaluation
 
 A local-first Go coding agent with scoped tool approvals, recoverable sessions, and configurable checks that feed failures back into the agent loop. Its evaluation runner grades patches against hidden tests and tracks false completions.
 
 [Repository](https://github.com/Sanidhya14321/goh) · [Architecture](https://github.com/Sanidhya14321/goh/blob/main/docs/ARCHITECTURE.md) · [Evaluation reports](https://github.com/Sanidhya14321/goh/tree/main/docs/benchmarks)
+
+### Harvest · Collaborative terminal coding agent
+
+Harvest supports coordinated subagents in a terminal coding workspace. I contributed a local decision layer for tool gating and routing and connected interactive chat to the terminal UI in the experimental Rust runtime.
+
+[Repository](https://github.com/Sanidhya14321/harvest) · [Tool gating and routing](https://github.com/Sanidhya14321/harvest/commit/1d7e2c4297eae8efe8d1de1a1c0bc03c81269d42) · [Rust chat and terminal UI](https://github.com/Sanidhya14321/harvest/commit/d00774f8771255b08801479d2571aea809d24491)
+
+## Applied AI
 
 ### ORGOS · Goal planning and handbook Q&A
 
